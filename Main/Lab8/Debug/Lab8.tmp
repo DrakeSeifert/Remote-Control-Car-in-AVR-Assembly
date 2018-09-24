@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\Debug\Lab8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab8.map</FILE>
+  <FILE>Lab8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>82</LINE></INIT>
+  <HitRight><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>151</LINE></HitRight>
+  <HitLeft><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>190</LINE></HitLeft>
+  <ReceiveData><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>252</LINE></ReceiveData>
+  <MAIN><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>139</LINE></MAIN>
+  <Wait><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>232</LINE></Wait>
+  <Loop><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>237</LINE></Loop>
+  <OLoop><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>238</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>239</LINE></ILoop>
+  <ExitInterrupt><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>299</LINE></ExitInterrupt>
+  <MoveForward><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>302</LINE></MoveForward>
+  <MoveBackward><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>313</LINE></MoveBackward>
+  <TurnRight><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>324</LINE></TurnRight>
+  <TurnLeft><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>335</LINE></TurnLeft>
+  <HaltInterrupt><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>346</LINE></HaltInterrupt>
+  <FutureUse><FILE>C:\Users\Drake\Documents\Oregon State\6 Winter 2017\ECE375\Lab8\Lab8\main.asm</FILE><LINE>357</LINE></FutureUse>
+ </LABELS>
+</ASSEMBLER_INFO>
